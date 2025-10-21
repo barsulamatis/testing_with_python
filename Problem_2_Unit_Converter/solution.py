@@ -1,5 +1,3 @@
-# your code here
-# your code here
 print("what type of conversion do you want? please enter ")
 choice1 = input("1 for length\n2 for temprature\n")
 if choice1 == "1":

@@ -1,4 +1,3 @@
-# your code here
 num1 = int(input("enter the first number:\n" ))
 num2 = int(input("enter the second number:\n"))
 oper = input("enter the operator:\n+ for addition\n- for subtraction\n* or x for multiplication\n/ for division\n")

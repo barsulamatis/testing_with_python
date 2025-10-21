@@ -1,4 +1,3 @@
-# your code here
 name = input("please enter your name: ")
 food = input("your favorite food: ")
 year = input("current year: ")
